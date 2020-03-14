@@ -17,7 +17,7 @@
 
 
 <body>
-	<h2>List of Emp's in aws/DevOps env</h2>	
+	<h2>List of Emp's in AWS/DevOps env</h2>	
 	<img src="">
 	<table>
 		<tr>
